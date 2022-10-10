@@ -17,3 +17,11 @@ Columns:
 ['ID', 'AGE', 'GENDER', 'DRIVING_EXPERIENCE', 'EDUCATION', 'INCOME','CREDIT_SCORE', 'VEHICLE_OWNERSHIP', 'VEHICLE_YEAR', 'MARRIED','CHILDREN', 'POSTAL_CODE', 'ANNUAL_MILEAGE', 'SPEEDING_VIOLATIONS','DUIS', 'PAST_ACCIDENTS', 'OUTCOME', 'TYPE_OF_VEHICLE']
 
  Learn and predict the **OUTCOME** variable.
+ 
+ **3) Evaluation:-**
+ 
+ The submission will be evaluated using the Log Loss metric.
+ 
+ **4) Competition Link:-**
+ 
+ https://machinehack.com/hackathons/analytics_olympiad_2022/overview 
