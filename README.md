@@ -37,6 +37,6 @@ Columns:
 
 **d) Rank Scored:-**
 
-a) 07 out of 1002 registered participants (Public Leaderboard)
+a) **07** out of **1002** registered participants **(Public Leaderboard)**
 
-b) 113 out of 1002 registered participants (Private Leaderboard)
+b) **113** out of **1002** registered participants **(Private Leaderboard)**
