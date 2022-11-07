@@ -22,13 +22,21 @@ Columns:
  
  The submission will be evaluated using the Log Loss metric.
  
- **4) Competition Link:-**
- 
- https://machinehack.com/hackathons/analytics_olympiad_2022/overview 
-
 # Summary
 **a) Best Submission Score:-**
 
 **1) Public Leaderboard :-** 0.68019
 
 **2) Private Leaderboard :-** 0.68093
+
+**b) Best Model:-** LGBM Classifier
+
+![Final_Rank_AB](https://user-images.githubusercontent.com/84449238/200380909-c72315c6-cd43-4185-b6cc-6b2376485b81.jpg)
+
+**c) Competition Link:-** https://machinehack.com/hackathons/analytics_olympiad_2022/overview 
+
+**d) Rank Scored:-**
+
+a) 07 out of 1002 registered participants (Public Leaderboard)
+
+b) 113 out of 1002 registered participants (Private Leaderboard)
